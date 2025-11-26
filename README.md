@@ -10,7 +10,7 @@ Full-Stack Web & dApp Developer building scalable, modern, and efficient solutio
 
 <div align="center">
 <a href="#"><img src="https://img.shields.io/badge/🌐%20Web-HTML,CSS,JS-blue?style=for-the-badge" alt="Web"/></a>
-<a href="#"><img src="https://img.shields.io/badge/⚡%20Backend-Node,PHP,Mongo-green?style=for-the-badge" alt="Backend"/></a>
+<a href="#"><img src="https://img.shields.io/badge/⚡%20Backend-Laravel,Node,PHP,Mongo-green?style=for-the-badge" alt="Backend"/></a>
 <a href="#"><img src="https://img.shields.io/badge/💎%20Blockchain-Solidity,dApps-orange?style=for-the-badge" alt="Blockchain"/></a>
 <a href="#"><img src="https://img.shields.io/badge/🤖%20AI-ML,Automation-purple?style=for-the-badge" alt="AI"/></a>
 <a href="#"><img src="https://img.shields.io/badge/🚀%20DevOps-Docker,CI-CD-blue?style=for-the-badge" alt="DevOps"/></a>
