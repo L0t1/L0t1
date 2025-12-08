@@ -1,12 +1,15 @@
-<!-- Cyberpunk Neon Profile - README.md -->
+<!-- Cyberpunk Banner -->
+<p align="center">
+  <img src="https://github.com/L0t1/L0t1/raw/main/assets/banner.png" alt="Cyberpunk Banner" width="100%" />
+</p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=4000&pause=900&color=0FF1FF&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Lotuuu;Futuristic+Web+%26+dApp+Builder;AI+%7C+Blockchain+%7C+Full-Stack+Dev+🛸" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=4000&pause=900&color=0FF1FF&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Lotuuu;Futuristic+Web+%26+dApp+Builder;AI+%7C+Blockchain+%7C+Full-Stack+Dev+🛸" alt="Typing SVG"/>
 </h1>
 
-<!-- Replace with a real neon divider GIF in your /assets if available -->
+<!-- Neon Divider GIF -->
 <p align="center">
-  <img src="https://github.com/L0t1/L0t1/raw/main/assets/neon-divider.gif" width="90%" alt="Neon Divider" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh3cWY2djYzcmQ4cnpsbjRtczBnbnNqb2pxcTh3Zmh5dW1jdnJnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jx4jKhrKvifvCZtyN5/giphy.gif" alt="Neon Divider" width="80%" />
 </p>
 
 <p align="center">
@@ -41,10 +44,9 @@
 ## 🌌 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L0t1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L0t1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="170px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0t1&layout=compact&theme=tokyonight" alt="Top Langs" height="170px"/>
-  <!-- Fallback static shields if above fail: -->
-  <img src="https://img.shields.io/github/followers/L0t1?style=social" />
+  <img src="https://img.shields.io/github/followers/L0t1?style=social"/>
 </div>
 
 ---
@@ -65,18 +67,17 @@
 
 ---
 
-## ⚡ Snapshot
+## 🔖 Quick Snapshot
 
-- **Full-Stack + dApps + AI** 
-- **Approach:** Scalable, clean, and creative code
-- **Mindset:** Future-focused, endlessly curious, fierce about shipping tech people _want_
-- **Fav Motto:** “Hack the present to own the future.”
+- **Role / Identity:** Full-Stack Web & dApp Developer  
+- **Approach:** Clean, maintainable, scalable code with a side of cleverness  
+- **Mindset:** Solve problems efficiently, keep learning, and make software that works — and maybe wows  
 
 ---
 
-<!-- Replace with a real cyber ASCII SVG or remove if unavailable -->
+<!-- Futuristic SVG Icon -->
 <p align="center">
-  <img src="https://github.com/L0t1/L0t1/raw/main/assets/cyber-ascii-art.svg" width="200px" alt="Futuristic ASCII" />
+  <img src="https://github.com/L0t1/L0t1/raw/main/assets/github.svg" width="200px" alt="Futuristic ASCII"/>
 </p>
 
 <!-- END -->
