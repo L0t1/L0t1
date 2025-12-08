@@ -1,12 +1,3 @@
-<!-- Cyberpunk Banner -->
-<p align="center">
-  <img src="https://github.com/L0t1/L0t1/raw/main/assets/banner.png" alt="Cyberpunk Banner" width="100%" />
-</p>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=4000&pause=900&color=0FF1FF&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Lotuuu;Futuristic+Web+%26+dApp+Builder;AI+%7C+Blockchain+%7C+Full-Stack+Dev+🛸" alt="Typing SVG"/>
-</h1>
-
 <!-- Neon Divider GIF -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh3cWY2djYzcmQ4cnpsbjRtczBnbnNqb2pxcTh3Zmh5dW1jdnJnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jx4jKhrKvifvCZtyN5/giphy.gif" alt="Neon Divider" width="80%" />
