@@ -1,59 +1,82 @@
-# 👋 Hey, I'm Lotuuu
+<!-- Cyberpunk Neon Profile - README.md -->
 
-**Full-Stack Web & dApp Developer** 🌐🔗  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=4000&pause=900&color=0FF1FF&center=true&vCenter=true&width=540&lines=Hey%2C+I'm+Lotuuu;Futuristic+Web+%26+dApp+Builder;AI+%7C+Blockchain+%7C+Full-Stack+Dev+🛸" alt="Typing SVG" />
+</h1>
 
-Full-Stack Web & dApp Developer building scalable, modern, and efficient solutions. I mix traditional web with decentralized tech, flirt with AI, solve tricky problems, and ship software that actually works… all while maintaining my **vibe coder** energy.  
+<!-- Replace with a real neon divider GIF in your /assets if available -->
+<p align="center">
+  <img src="https://github.com/L0t1/L0t1/raw/main/assets/neon-divider.gif" width="90%" alt="Neon Divider" />
+</p>
+
+<p align="center">
+  <b><code>Innovate. Automate. Decentralize. Push boundaries.</code></b><br>
+  <i>“Code shapes the future—time to build something iconic.” 🚀👾</i>
+</p>
 
 ---
 
-## 🔧 My Tech Playground
+## 🦾 Tech Arsenal
 
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/🌐%20Web-HTML,CSS,JS-blue?style=for-the-badge" alt="Web"/></a>
-<a href="#"><img src="https://img.shields.io/badge/⚡%20Backend-Laravel,Node,PHP,Mongo-green?style=for-the-badge" alt="Backend"/></a>
-<a href="#"><img src="https://img.shields.io/badge/💎%20Blockchain-Solidity,dApps-orange?style=for-the-badge" alt="Blockchain"/></a>
-<a href="#"><img src="https://img.shields.io/badge/🤖%20AI-ML,Automation-purple?style=for-the-badge" alt="AI"/></a>
-<a href="#"><img src="https://img.shields.io/badge/🚀%20DevOps-Docker,CI-CD-blue?style=for-the-badge" alt="DevOps"/></a>
+  <img src="https://img.shields.io/badge/Frontend-Next.js|React|HTML|CSS-0ff1ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node|Express|Laravel|PHP|Mongo-3333cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blockchain-Solidity|dApps|EVM-ff00cc?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-ML|Automation-00ff66?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automation-DevOps|Docker|CI_CD-6e08d5?style=for-the-badge" />
 </div>
 
 ---
 
-## 🚀 What I’m Up To
+## 👾 What’s Cooking?
 
-- Building full-stack web apps that scale  
-- Crafting decentralized apps and smart contracts  
-- Exploring AI and automation for smarter solutions  
-- Writing clean, maintainable, and sometimes clever code  
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td valign="top" width="55%">
-<img src="https://github-readme-stats.vercel.app/api?username=L0t1&show_icons=true&count_private=true&theme=radical" width="100%" />
-</td>
-<td valign="top" width="45%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0t1&layout=compact&theme=radical" width="100%" />
-</td>
-</tr>
-</table>
+- Pushing the boundaries of full-stack and dApp dev
+- Making decentralized apps and smart contracts with style
+- Integrating AI for smarter, adaptive code
+- Always automating and scaling solutions that actually work
+- Writing code that’s clean, clever, and sometimes flashy
 
 ---
 
-## 🌐 Connect With Me
+## 🌌 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/L0t1"><img src="https://img.shields.io/badge/GitHub-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://linkedin.com/in/lotuuu"><img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=L0t1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0t1&layout=compact&theme=tokyonight" alt="Top Langs" height="170px"/>
+  <!-- Fallback static shields if above fail: -->
+  <img src="https://img.shields.io/github/followers/L0t1?style=social" />
 </div>
 
 ---
 
-## 🔖 Quick Snapshot
+## 🌐 Connect with Me
 
-- **Role / Identity:** Full-Stack Web & dApp Developer  
-- **Approach:** Clean, maintainable, scalable code with a side of cleverness  
-- **Mindset:** Solve problems efficiently, keep learning, and make software that works — and maybe wows  
+<p align="center">
+  <a href="mailto:lotkycyku@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lotkycyku@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/L0t1">
+    <img src="https://img.shields.io/badge/GitHub-L0t1-24292e?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lotuuu">
+    <img src="https://img.shields.io/badge/LinkedIn-lotuuu-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
+---
+
+## ⚡ Snapshot
+
+- **Full-Stack + dApps + AI** 
+- **Approach:** Scalable, clean, and creative code
+- **Mindset:** Future-focused, endlessly curious, fierce about shipping tech people _want_
+- **Fav Motto:** “Hack the present to own the future.”
+
+---
+
+<!-- Replace with a real cyber ASCII SVG or remove if unavailable -->
+<p align="center">
+  <img src="https://github.com/L0t1/L0t1/raw/main/assets/cyber-ascii-art.svg" width="200px" alt="Futuristic ASCII" />
+</p>
+
+<!-- END -->
