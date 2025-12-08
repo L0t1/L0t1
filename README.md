@@ -1,12 +1,18 @@
-<!-- Neon Divider GIF -->
+<!-- 👾 CYBERPUNK DEV MODE ENABLED 👾 -->
+
+<!-- Neon Divider GIF (single, at top) -->
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGh3cWY2djYzcmQ4cnpsbjRtczBnbnNqb2pxcTh3Zmh5dW1jdnJnaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jx4jKhrKvifvCZtyN5/giphy.gif" alt="Neon Divider" width="80%" />
 </p>
 
+<!-- Futuristic Introduction -->
 <p align="center">
-  <b><code>Innovate. Automate. Decentralize. Push boundaries.</code></b><br>
-  <i>“Code shapes the future—time to build something iconic.” 🚀👾</i>
+  <b><code>Hi, explorer! You've entered the digital playground of Lotuuu.</code></b><br>
+  <em style="color:#00ffe7;">Inventing the future, one clever line of code at a time.<br>
+  🚀 Building, automating, and hacking web3, AI, & scalable tech since the day I saw my first terminal.</em>
 </p>
+
+<p align="center"><code>// Full-stack dev | dApps innovator | AI automator | Future-focused</code></p>
 
 ---
 
@@ -29,16 +35,6 @@
 - Integrating AI for smarter, adaptive code
 - Always automating and scaling solutions that actually work
 - Writing code that’s clean, clever, and sometimes flashy
-
----
-
-## 🌌 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L0t1&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L0t1&layout=compact&theme=tokyonight" alt="Top Langs" height="170px"/>
-  <img src="https://img.shields.io/github/followers/L0t1?style=social"/>
-</div>
 
 ---
 
