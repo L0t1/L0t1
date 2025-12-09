@@ -41,6 +41,13 @@
 ## 🌐 Connect with Me
 
 <p align="center">
+  <em style="color:#ff00ff;">✨ Check out my interactive portfolio for projects, experiments & cyberpunk vibes: <a href="https://www.lotkycyku.com/">lotkycyku.com</a> ✨</em>
+</p>
+
+<p align="center">
+  <a href="https://www.lotkycyku.com/">
+    <img src="https://img.shields.io/badge/Portfolio-lotkycyku.com-ff00ff?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
   <a href="mailto:lotkycyku@gmail.com">
     <img src="https://img.shields.io/badge/Email-lotkycyku@gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
